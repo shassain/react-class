@@ -1,0 +1,14 @@
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  background-color: brown;
+}
+.flex_column{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  
+}
